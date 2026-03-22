@@ -9,6 +9,8 @@ on:
 jobs:
   check-label:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
     steps:
       - name: Check for type label
         env:
