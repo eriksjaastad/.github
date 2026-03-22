@@ -1,0 +1,6 @@
+{
+  "name": "PR: Require Type Label",
+  "description": "Blocks merge until PR has a type label (feature, bug, chore, etc.)",
+  "iconName": "tag",
+  "categories": ["Pull Requests"]
+}
